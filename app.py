@@ -112,4 +112,4 @@ st.plotly_chart(fig_unemp, use_container_width=True)
 
 # Footer
 st.markdown("<hr style='border:1px solid #ccc;'>", unsafe_allow_html=True)
-st.markdown("<center>Made with ❤️ by brejesh V.D. | Data Science Project</center>", unsafe_allow_html=True)
+st.markdown("<center>Brejesh V.D. | Data Science Project</center>", unsafe_allow_html=True)

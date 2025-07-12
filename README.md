@@ -79,22 +79,6 @@ Then open the link shown in your terminal, or view the hosted app directly here:
 
 ---
 
-## 🔗 Project Link
-
-* 📂 GitHub: [github.com/Brejesh-5784/Walmart-Sales-Forecasting](https://github.com/Brejesh-5784/Walmart-Sales-Forecasting)
-* 🌐 App: [https://salesweek.streamlit.app](https://salesweek.streamlit.app)
-
----
-
-## 📬 Contact
-
-Feel free to connect or reach out with suggestions:
-
-* 📧 Email: [brejesh@example.com](mailto:brejesh@example.com)
-* 💼 LinkedIn: [linkedin.com/in/your-link](https://www.linkedin.com/in/your-link)
-
----
-
 © 2025 Brejesh V.D. • All rights reserved.
 
 ```

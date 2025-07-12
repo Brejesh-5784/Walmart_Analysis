@@ -83,12 +83,3 @@ Then open the link shown in your terminal, or view the hosted app directly here:
 
 ```
 
----
-
-Let me know if you’d like:
-- A logo or banner at the top
-- Shields/badges (e.g., “Made with Streamlit”, “XGBoost”, etc.)
-- A `LICENSE.md` template
-
-I'll be happy to help make your repo look polished and professional!
-```
